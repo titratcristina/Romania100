@@ -1,0 +1,164 @@
+/* defaults */
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+}
+
+nav {
+    font-size: 1.4rem;
+}
+
+h3 {
+    margin-bottom: 2.5rem;
+}
+
+/* fundal */
+.bg-init {
+    background-image: url("https://www.ro100.ro/design/images/slider.jpg");
+    background-size: cover;
+    border-radius: 0;
+}
+
+.bg-transp {
+    color: white;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.7);
+}
+
+.bg-history {
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/b/b6/AsambleaDeAlbaIulia19181201.jpg');
+    background-size: cover;
+}
+
+/* centrare sau spatiu */
+.center {
+    text-align: center;
+}
+
+.btn-center {
+    margin: auto;
+}
+
+.space {
+    padding-top: 4rem;
+}
+
+.space-bottom {
+    margin-bottom: 7rem;
+}
+
+.padd {
+    padding: 1rem;
+}
+
+.btn-outline-danger {
+    margin-top: 3px;
+}
+
+/* card + scrolling */
+.scrolling-wrapper {
+    overflow-x: scroll;
+    overflow-y: hidden;
+}
+
+.scrolling-wrapper .card {
+    display: inline-block;
+}
+
+.scrolling-wrapper {
+    max-height: 700px;
+    width: 100%;
+}
+
+.scrolling-wrapper::-webkit-scrollbar {
+    display: none;
+}
+
+.card {
+    min-width: 250px;
+    max-height: 700px;
+}
+
+
+.card-deck {
+    flex-flow: nowrap;
+    flex-direction: initial;
+    flex-wrap: nowrap;
+}
+
+.card-modal {
+    border: 0;
+    min-width: 160px!important;
+    width: 199px;
+    padding: 10px 0;
+    text-align: center;
+}
+
+/* imagini responsive din atractii*/
+#img-responsive {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    -webkit-transition: all .3s ease;
+    /* Safari and Chrome */
+    -moz-transition: all .3s ease;
+    /* Firefox */
+    -o-transition: all .3s ease;
+    /* IE 9 */
+    -ms-transition: all .3s ease;
+    /* Opera */
+    transition: all .3s ease;
+    z-index: -1000!important;
+
+}
+
+#img-responsive:hover {
+    z-index: 1000!important;
+    border-radius: 0%;
+    -webkit-transform: scale(3, 2);
+    /* Safari and Chrome */
+    -moz-transform: scale(3, 2);
+    /* Firefox */
+    -ms-transform: scale(3, 2);
+    /* IE 9 */
+    -o-transform: scale(3, 2);
+    /* Opera */
+    transform: scale(3, 2);
+}
+
+/* style modificat */
+.trio {
+    background-image: linear-gradient(to bottom right ,#CE1126 , #FCD116,#002B7F,#002B7F,#FCD116,#CE1126,#CE1126,#CE1126,#CE1126);
+    background-size: auto 200%;
+    background-position: 0 100%;
+    transition: background-position 0.5s;
+    border: 0;
+    margin: 0;
+    color: #fff;
+}
+
+.trio:hover, .trio:focus, .trio a:hover{
+    background-position: 0 0;
+    color: white;
+}
+
+.box-shadow {
+    box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
+}
+
+.lead {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+}

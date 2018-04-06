@@ -1,0 +1,36 @@
+.content {
+    padding: 10px;
+}
+
+#quiz {
+    display: none;
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+    font-size: smaller;
+}
+
+input[type="radio"] {
+    margin-right: 15px;
+}
+
+button {
+    position: relative;
+    margin-left: 10px;
+    float: right;
+}
+
+#prev,
+#start {
+    display: none;
+}
+
+#warning {
+    color: #800000;
+    font-weight: bold;
+    margin-top: 25px;
+}

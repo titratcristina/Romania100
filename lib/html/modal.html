@@ -1,0 +1,46 @@
+<div class="modal fade" id="Modal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+
+    <div class="modal-dialog modal-dialog-centered modal-lg" role="document">
+
+        <div class="modal-content">
+
+            <div class="modal-body">
+                <nav>
+                    <div class="nav nav-tabs" id="nav-tab" role="tablist">
+                        <a class="nav-item nav-link show active" id="nav-atractii-tab" data-toggle="tab" href="#nav-atractii" role="tab" aria-controls="nav-atractii" aria-selected="true">Atractii {{ data.orase[selected].judet }}</a>
+
+                        <a class="nav-item nav-link" id="nav-panorama-tab" data-toggle="tab" href="#nav-panorama" role="tab" aria-controls="nav-panorama" aria-selected="false">Panorama</a>
+
+
+                    </div>
+                </nav>
+                <div class="tab-content" id="nav-tabContent">
+
+                    <div class="tab-pane fade show active" id="nav-atractii" role="tabpanel" aria-labelledby="nav-atractii-tab">
+
+                        <div class="row ">
+                            <div ng-repeat="elem in data.orase[selected].more">
+                                <div class="card-modal">
+                                    <div class="card-body card-modal">
+                                        <img ng-src="{{ elem.imag }}" id="img-responsive">
+                                        <h5 class="card-title">{{ elem.location }}</h5>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
+                    </div>
+                    
+                    <div class="tab-pane fade" id="nav-panorama" role="tabpanel" aria-labelledby="nav-panorama-tab">
+
+                        <iframe align="center" ng-src="{{ data.orase[selected].panorama | trusted }}" marginheight="0" marginwidth="0" name="plg_iframe" width="100%" frameborder="0" height="500" scrolling="no" style="margin:auto"></iframe>
+
+                    </div>
+                </div>
+
+
+            </div>
+
+        </div>
+    </div>
+</div>

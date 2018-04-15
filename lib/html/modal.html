@@ -7,16 +7,19 @@
             <div class="modal-body">
                 <nav>
                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                        <a class="nav-item nav-link show active" id="nav-atractii-tab" data-toggle="tab" href="#nav-atractii" role="tab" aria-controls="nav-atractii" aria-selected="true">Atractii {{ data.orase[selected].judet }}</a>
+                        <a class="hide nav-item nav-link show active" id="nav-atractii-tab" data-toggle="tab" href="#nav-atractii" role="tab" aria-controls="nav-atractii" aria-selected="true">Atractii {{ data.orase[selected].judet }}</a>
 
                         <a class="nav-item nav-link" id="nav-panorama-tab" data-toggle="tab" href="#nav-panorama" role="tab" aria-controls="nav-panorama" aria-selected="false">Panorama</a>
+
+                        <!-- butonul de inchidere al modalului-->
+                        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 
 
                     </div>
                 </nav>
                 <div class="tab-content" id="nav-tabContent">
 
-                    <div class="tab-pane fade show active" id="nav-atractii" role="tabpanel" aria-labelledby="nav-atractii-tab">
+                    <div class="hide tab-pane fade show active" id="nav-atractii" role="tabpanel" aria-labelledby="nav-atractii-tab">
 
                         <div class="row ">
                             <div ng-repeat="elem in data.orase[selected].more">
@@ -28,9 +31,9 @@
                                 </div>
                             </div>
                         </div>
-                        
+
                     </div>
-                    
+
                     <div class="tab-pane fade" id="nav-panorama" role="tabpanel" aria-labelledby="nav-panorama-tab">
 
                         <iframe align="center" ng-src="{{ data.orase[selected].panorama | trusted }}" marginheight="0" marginwidth="0" name="plg_iframe" width="100%" frameborder="0" height="500" scrolling="no" style="margin:auto"></iframe>

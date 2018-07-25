@@ -1,4 +1,5 @@
 /* defaults */
+
 html {
     position: relative;
     min-height: 100%;
@@ -17,6 +18,7 @@ h3 {
 }
 
 /* fundal */
+
 .bg-init {
     background-image: url("https://www.ro100.ro/design/images/slider.jpg");
     background-size: cover;
@@ -34,7 +36,8 @@ h3 {
     background-size: cover;
 }
 
-/* centrare sau spatiu */
+/* centrare sau spatiere */
+
 .center {
     text-align: center;
 }
@@ -59,7 +62,8 @@ h3 {
     margin-top: 3px;
 }
 
-/* card + scrolling */
+/* card + scrolling effect */
+
 .scrolling-wrapper {
     overflow-x: scroll;
     overflow-y: hidden;
@@ -99,6 +103,7 @@ h3 {
 }
 
 /* imagini responsive din atractii*/
+
 #img-responsive {
     width: 160px;
     height: 160px;
@@ -131,8 +136,9 @@ h3 {
 }
 
 /* style modificat */
+
 .trio {
-    background-image: linear-gradient(to bottom right ,#CE1126 , #FCD116,#002B7F,#002B7F,#FCD116,#CE1126,#CE1126,#CE1126,#CE1126);
+    background-image: linear-gradient(to bottom right, #CE1126, #FCD116, #002B7F, #002B7F, #FCD116, #CE1126, #CE1126, #CE1126, #CE1126);
     background-size: auto 200%;
     background-position: 0 100%;
     transition: background-position 0.5s;
@@ -141,7 +147,9 @@ h3 {
     color: #fff;
 }
 
-.trio:hover, .trio:focus, .trio a:hover{
+.trio:hover,
+.trio:focus,
+.trio a:hover {
     background-position: 0 0;
     color: white;
 }
@@ -161,4 +169,158 @@ h3 {
     width: 100%;
     height: 60px;
     line-height: 60px;
+}
+
+/* responsive */
+
+@media (max-width: 991px) {
+    .display-2 {
+        font-size: 3.5rem !important;
+    }
+    .display-4 {
+        font-size: 1.5rem;
+    }
+    .hide {
+        display: none !important;
+    }
+    .smally {
+        font-size: 1rem !important;
+        line-height: 1.1rem !important;
+        font-weight: 100 !important;
+    }
+    .card {
+        min-width: 330px !important;
+    }
+}
+
+/* Quiz */
+
+.content {
+    padding: 10px;
+}
+
+#quiz {
+    display: none;
+    font-size: x-large;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin-bottom: 10px;
+    font-size: smaller;
+}
+
+input[type="radio"] {
+    margin-right: 15px;
+}
+
+button {
+    position: relative;
+    margin-left: 10px;
+    float: right;
+}
+
+#prev,
+#start {
+    display: none;
+}
+
+#warning {
+    color: #800000;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+/* Rating */
+
+.rating {
+    color: #a9a9a9;
+    margin: 0;
+    padding: 0;
+}
+
+ul.rating {
+    display: inline-block;
+}
+
+.rating li {
+    list-style-type: none;
+    display: inline-block;
+    padding: 1px;
+    text-align: center;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.rating .filled {
+    color: orangered;
+}
+
+.clear {
+    margin-top: 20px;
+}
+
+/* săgeata pentru indicarea scrollului pe orizontală*/
+
+i {
+    color: #0000004a;
+    display: flex;
+    justify-content: center;
+}
+
+/* animaţia sageaţii */
+
+.arrow {
+    animation: slide 1s ease-in-out infinite;
+}
+
+@keyframes slide {
+    0%,
+    100% {
+        transform: translate(0, 0);
+    }
+
+    50% {
+        transform: translate(10px, 0);
+    }
+}
+
+/* Like Box */
+
+.arrow_box {
+    position: relative;
+    background: #fff;
+    color: #dc3545;
+    border: 1px solid #dc3545;
+    padding: 1px 10px;
+    border-radius: 5px;
+    margin-left: 5px;
+}
+
+.arrow_box:after,
+.arrow_box:before {
+    right: 100%;
+    top: 50%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.arrow_box:after {
+    border-color: rgba(255, 255, 255, 0);
+    border-right-color: #fff;
+    border-width: 5px;
+    margin-top: -5px;
+}
+
+.arrow_box:before {
+    border-color: rgba(220, 53, 69, 0);
+    border-right-color: #dc3545;
+    border-width: 6px;
+    margin-top: -6px;
 }

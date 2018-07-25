@@ -1,5 +1,7 @@
 <div class="space" id='2'>
-    <h3 class="display-4 text-center">Destinații populare</h3>
+    <h3 class="display-4 text-center">
+        Destinații populare <i class="fas fa-angle-double-right arrow" aria-hidden="true"></i>
+    </h3>
 
     <div ng-controller="section" class="container">
         <div class="card-deck scrolling-wrapper">
@@ -8,18 +10,12 @@
                 <div class="card-body">
                     <h5 class="card-title center">{{ city.name }}</h5>
                     <p class="card-text">{{ city.details }}</p>
-
-
                     <button type="button" ng-click="open($index)" class="btn btn-outline-primary btn-block" data-toggle="modal" data-target="#Modal">More</button>
-
-
-                    <div ng-controller="classCtrl">
-                        <button type="button" class="btn btn-outline-danger btn-block" ng-class="{'active': isActive}" ng-click="activeButton()" type="button"><span>&#x2764;</span> Love it</button>
-                    </div>
-
+                    <button type="button" class="btn btn-outline-danger btn-block" ng-class="{'active': isActive[$index] }" ng-click="activeButton($index)" type="button"><span>&#x2764;</span>Love it  <span class="arrow_box">{{ city.likes }}</span></button>
                 </div>
             </div>
         </div>
         <modal></modal>
+        <i class="fas fa-angle-double-right arrow" aria-hidden="true"></i>
     </div>
 </div>

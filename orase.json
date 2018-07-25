@@ -1,12 +1,463 @@
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d2"},"name":"ORAŞUL UNIRII, Alba-Iulia","judet":"Alba","details":"Alba Iulia, capitala de suflet a românilor, este oraşul unde s-a înfăptuit Marea Unire de la 1918.Una dintre cele mai frumoase locuri de vizitat din Romania. Frumos renovata, arata autentic.","img":"https://razvanpascu.ro/wp-content/uploads/2017/11/alba-iulia-fotografii-cu-drona.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/alba-iulia/catedrala-ortodoxa/index.html","more":[{"location":"Râpa Roşie","imag":"https://alba24.ro/wp-content/uploads/2013/04/rapa-rosie-300x197.jpg"},{"location":"Gheţarul de la Scărişoara","imag":"https://alba24.ro/wp-content/uploads/2012/06/scarisoara-1-300x228.jpg"},{"location":"Cetatea Alba Carolina","imag":"https://alba24.ro/wp-content/uploads/2013/08/Alba-Iulia-300x132.jpg"},{"location":"Cetatea Câlnic","imag":"https://alba24.ro/wp-content/uploads/2012/07/Cetatea-Calnic-300x225.jpg"},{"location":"Transalpina sau Drumul Regelui","imag":"https://alba24.ro/wp-content/uploads/2013/08/transalpina-300x183.jpg"},{"location":"Castelul Bethlen-Haller","imag":"https://alba24.ro/wp-content/uploads/2013/08/Castelul-Bethlen-300x188.jpg"},{"location":"Satul Rimetea","imag":"https://alba24.ro/wp-content/uploads/2013/02/DSC09851-300x199.jpg"},{"location":"Mănăstirea de la Râmeţ","imag":"https://alba24.ro/wp-content/uploads/2013/05/manastirea-ramet-300x201.jpg"}],"reviews":[{"name":"Cristina","content":"Test","time":{"$numberLong":"1532118526279"}},{"name":"Steluta","content":"Bogdanel este o steluta pentru ca imi lumineaza mereu seara","rating":"3","time":{"$numberLong":"1532118615953"}}],"likes":{"$numberInt":"5"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d3"},"name":"București","judet":"București","details":"Capitala Romaniei este un oras plin de viata, de lumina si in permanenta dezvoltare. A cunoscut multe schimbari, a trecut prin diverse perioade istorice, fiecare lasandu-si amprenta in structura orasului","img":"http://www.ccib.ro/afacerea/Imagemanager/afacerea2012/321/Arc-Triumf.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/bucuresti/arcul-de-triumf/index.html","more":[{"location":"Arcul de Triumf","imag":"https://img.directbooking.ro/getimage.ashx?f=Obiective&file=7a56ec24-0814-4399-afe4-e6d764000f685.jpg"},{"location":"Palatul Parlamentului","imag":"https://static4.libertatea.ro/wp-content/uploads/2018/03/casa-poporului.jpg"},{"location":"Parcul Herăstrău","imag":"https://www.activenews.ro/images/articole/148203.jpeg"},{"location":"Centrul vechi","imag":"http://cdnd.mercibynovotel.ro/administrare-articole/1/large_articol-centrul-vechi.jpg"},{"location":"Ateneul Român","imag":"https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ateneul_Roman.jpg/1200px-Ateneul_Roman.jpg"},{"location":"Muzeul Țăranului","imag":"https://ross-tur.ru/wp-content/uploads/2014/05/Muzey-rumyinskogo-krestyanina.jpg"},{"location":"Muzeul Satului","imag":"http://noapteamuzeelor.ro/wp-content/uploads/2016/04/muzeul-satului-ansamblu-1.jpg"},{"location":"Muzeul Antipa","imag":"http://www.ziuaveche.ro/wp-content/uploads/2011/09/Muzeul-%E2%80%9CGrigore-Antipa%E2%80%9D-se-redeschide.jpg"}],"reviews":[],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d5"},"name":"Brașov","judet":"Brașov","details":"Municipiul Brașov a reprezentat, de secole, unul dintre cele mai importante, puternice și înfloritoare orașe din zonă. Brașovul este cel mai important oraș din regiunea de dezvoltare Centru.","img":"https://intelilight.eu/wp-content/uploads/2014/03/Brasov-case-study.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/brasov/piata-sfatului-brasov-02/index.html","more":[{"location":"Piaţa Sfatului","imag":"http://www.romania-central.com/wp-content/uploads/pictures/cities-from-romania/brasov/brasov-piata-sfatului-council-square-images-01.jpg"},{"location":"Biserica Neagră","imag":"https://identitatea.ro/wp-content/uploads/2016/08/Biserica_Neagra_Brasov_Romania.jpg"},{"location":"Castelul Bran","imag":"http://www.castelulbran.ro/assets/pages/home2-full.jpg"},{"location":"Poiana Brasov","imag":"http://www.discoverpoiana.ro/files/slideshow/129.jpeg"},{"location":"Prima școală românească","imag":"https://s.inyourpocket.com/img/figure/2015-04/Brasov_Prima_scoala_romaneasca_(2).jpg"},{"location":"Varful Tampa","imag":"http://www.adevarul.ro/assets/adevarul.ro/MRImage/2014/08/29/540051290d133766a8aeab7a/646x404.jpg"},{"location":"Cetatea Râşnov","imag":"http://alecsvlad.ro/wp-content/uploads/2017/07/Cetatea-Rasnov-1440x810.jpg"},{"location":"Cetatea Făgăraş","imag":"https://romaniadacia.files.wordpress.com/2014/03/medieval-citadel-fagaras-transylvania-romania-aerial-1-beautiful-landscape.jpg"}],"reviews":[],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d7"},"name":"Sibiu","judet":"Sibiu","details":"Municipiul Sibiu a reprezentat și reprezintă unul dintre cele mai importante și înfloritoare orașe din Transilvania, fiind unul dintre principalele centre ale coloniștilor sași stabiliți în zonă. În anul 2007 a fost Capitala Culturală Europeană.","img":"https://farm1.staticflickr.com/425/32087035070_c99d8f0b62_c.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/sibiu/piata-mare-01/index.html","more":[{"location":"Golul alpin Bâlea","imag":"http://img.bunadimineata.ro/uploads/2015/12/lacul-balea-muntii-fagaras_20299338-696x464.jpg"},{"location":"Transfăgărășanul","imag":"http://img.bunadimineata.ro/uploads/2015/12/soseua-transfagarasean-sibiu_9970362-696x464.jpg"},{"location":"Păltiniș","imag":"http://www.turistintransilvania.com/wp-content/uploads/2012/12/paltinis-sibiu-455x305.jpg"},{"location":"Biserica fortificată din Cisnădioara","imag":"http://img.bunadimineata.ro/uploads/2015/12/biserica-medievala-cisnadioara_42654029-634x420.jpg"},{"location":"Biserica fortificată din Biertan","imag":"http://img.bunadimineata.ro/uploads/2015/12/cetatea-medievala-biertan-sibiu_33620382-634x420.jpg"},{"location":"Ocna Sibiului","imag":"http://img.bunadimineata.ro/uploads/2015/12/ocna-sibiului_52998399-696x406.jpg"},{"location":"Parcul Natural „Golul alpin Făgăraș”","imag":"http://img.bunadimineata.ro/uploads/2015/12/muntii-fagaras_20305009-696x464.jpg"},{"location":"Mărginimea Sibiului","imag":"http://img.bunadimineata.ro/uploads/2015/12/satul-jina-marginimea-sibiului_26187640-634x420.jpg"}],"reviews":[],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d8"},"name":"Sinaia","judet":"Prahova","details":"Sinaia una dintre cele mai frumoase statiuni montane din Romania se prezinta vizitatorului cu un bogat trecut cultural si social. Fosta resedinta a regilor inbina neintrecut frumusetea naturii cu cea a artei arhitecturale. ","img":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg/800px-Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/sinaia/castelul-peles/index.html","more":[{"location":"Valea Prahovei","imag":"http://img.bunadimineata.ro/uploads/2015/11/valea-prahovei_36037314-696x464.jpg"},{"location":"Parcul Natural Bucegi","imag":"http://img.bunadimineata.ro/uploads/2015/11/muntii-bucegi_36015229-696x401.jpg"},{"location":"Castele Peleș și Pelișor","imag":"http://img.bunadimineata.ro/uploads/2015/11/castelul-peles-sinaia_20074035-696x465.jpg"},{"location":"Casa memorială George Enescu","imag":"http://img.bunadimineata.ro/uploads/2015/10/Casa-memoriala-George-Enescu.jpg"},{"location":"Castelul Cantacuzino","imag":"http://img.bunadimineata.ro/uploads/2015/11/castelul-cantacuzino_42146688-696x522.jpg"},{"location":"Valea Doftanei","imag":"http://img.bunadimineata.ro/uploads/2015/11/valea-doftanei_68076149-696x463.jpg"},{"location":"Muzeul memorial Nicolae Grigorescu","imag":"http://img.bunadimineata.ro/uploads/2015/10/Casa-memoriala-Nicolae-Grigorescu.jpg"},{"location":"Podgoriile de pe Dealu Mare","imag":"http://img.bunadimineata.ro/uploads/2015/10/Podgoria-Dealu-Mare.jpg"}],"reviews":[],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8d9"},"name":"Delta Dunarii","judet":"Tulcea","details":"Ca sa intelegi complexitatea Deltei Dunarii trebuie sa vizitezi acest mediu natural, sa te plimbi cu barca, sa asculti zgomotele naturii si abia atunci iti vei da seama cat de bogati suntem cu un asemenea loc supranumit 'Raiul pasarilor si a pestilor'.","img":"http://www.retetepractice.ro/wp-content/uploads/2015/09/frumusetea-deltei-dunarii.png","panorama":"/lib/html/notFound.html","more":[{"location":"Parcul Național Munții Măcinului","imag":"http://img.bunadimineata.ro/uploads/2016/02/munti-in-dobrogea_60522731-696x464.jpg"},{"location":"Acvariul din Tulcea","imag":"http://img.bunadimineata.ro/uploads/2016/02/Centrul-Muzeal-Eco-Turistic-Delta-Dunarii-3-696x522.jpg"},{"location":"Cetatea Aegyssus","imag":"http://img.bunadimineata.ro/uploads/2016/02/Cetatea-Aegyssus.png"},{"location":"Sulina","imag":"http://img.bunadimineata.ro/uploads/2016/02/far-in-sulina_32185952-639x420.jpg"},{"location":"Cetatea Medievală Enisala","imag":"http://img.bunadimineata.ro/uploads/2016/02/cetatea-enisala_20834775-633x420.jpg"},{"location":"Mănăstirile ortodoxe din Tulcea","imag":"http://img.bunadimineata.ro/uploads/2016/02/manastirea-celic-dere_44105252-633x420.jpg"},{"location":"Casa Memorială „Panait Cerna”","imag":"http://img.bunadimineata.ro/uploads/2016/02/casa-memoriala-panait-cerna-696x521.jpg"},{"location":"Clădirile turcești din Babadag","imag":"http://www.gsastl.ro/grant/grant_activitati/m1m_files/image003.jpg"}],"reviews":[],"likes":{"$numberInt":"2"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8da"},"name":"Timișoara","judet":"Timiș","details":"Timişoara oferă vizitatorilor atracţii demne de un oraş european. Oraşul de pe malul Begăi are o istorie care coboară până în cele mai vechi timpuri. Aici este locul în care s-a scris cel mai important capitol din istoria contemporană a ţării noastre","img":"http://blog.hotelguru.ro/wp-content/uploads/2017/02/Timisoara.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/timisoara/piata-victoriei-03/index.html","more":[{"location":"Castelul Huniade","imag":"http://img.bunadimineata.ro/uploads/2016/02/castelul-uniade_51215676-696x266.jpg"},{"location":"Stațiunea Buziaș","imag":"http://img.bunadimineata.ro/uploads/2016/02/800px-Buzias_Ansamblu_balnear_2.jpg"},{"location":"Mlaștinile Satchinez","imag":"http://img.bunadimineata.ro/uploads/2016/02/st%C3%A2rcul-cenusiu_40500484-696x490.jpg"},{"location":"Centrul Timisoarei","imag":"http://www.fly-go.ro/blog/wp-content/uploads/2015/03/centru-Timisoara.jpg"},{"location":"Muzeul din Lugoj","imag":"http://img.bunadimineata.ro/uploads/2016/02/muzeul-din-lugoj.jpg"},{"location":"Castelul din Banloc","imag":"http://img.bunadimineata.ro/uploads/2016/02/2007_castel_banloc-696x466.jpg"},{"location":"Peștera Românești","imag":"http://img.bunadimineata.ro/uploads/2016/02/pestere-romanesti_16654332-661x420.jpg"},{"location":"Pajiștea cu narcise din Bătești","imag":"http://1.bp.blogspot.com/_e4KtmNjxNuA/TKyK_gPcv-I/AAAAAAAAARA/xAsPynxCJYI/s1600/narcise3.jpg"}],"reviews":[],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8db"},"name":"Iași","judet":"Iași","details":"Iasi este cel mai mare oras din Moldova. Avand cea mai veche universitate romaneasca, a devenit un imens centru cultural si academic in Romania cu peste 50 de biserici, o faimoasa Gradina Botanica si multe muzee si case memoriale.","img":"http://turismistoric.ro/wp-content/uploads/2017/04/og_image-1080x580.jpg","panorama":"/lib/html/notFound.html","more":[{"location":"Palatul Culturii","imag":"https://www.laiasi.ro/wp-content/uploads/2017/12/obiective-turistice-iasi-palatul-culturii-iasi-1.jpg"},{"location":"Castelul Sturdza de la Miclăuşeni","imag":"http://img.bunadimineata.ro/uploads/2015/06/palatul-sturza-micaluseni_61142420-696x464.jpg"},{"location":"Palatul Cuza de la Ruginoasa","imag":"http://img.bunadimineata.ro/uploads/2015/06/palatul-cuza-ruginoasa_20723952-696x390.jpg"},{"location":"Muzeul Unirii","imag":"https://www.bzi.ro/public/upload/photos/22/Muzeul_Unirii_iarna.jpg"},{"location":"Parcul Copou","imag":"http://img.bunadimineata.ro/uploads/2015/06/parcul-copu-iasi_42421487-696x522.jpg"},{"location":"Biblioteca „Gheorghe Asachi”","imag":"http://img.bunadimineata.ro/uploads/2015/06/biblioteca-gh-asachi-iasi.jpg"},{"location":"Muzeul Memorial „Vasile Alecsandri”","imag":"http://img.bunadimineata.ro/uploads/2015/05/Muzeul-memorial-Vasile-Alecsandri-ro.wikipedia.org_.jpg"},{"location":"Podgoriile Cotnari","imag":"https://www.laiasi.ro/wp-content/uploads/2017/12/obiective-turistice-iasi-podgorii-iasi.jpg"}],"reviews":[],"likes":{"$numberInt":"0"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8dc"},"name":"Sighișoara","judet":"Mureș","details":"Sighisoara este printre putinele orase-cetate locuite din Europa. Datorita arhitecturii sale remarcabile, a pozitiei dominante si a ambiantei geografice, orasul a fost supranumit 'Perla Transilvaniei'. ","img":"https://www.holidayguru.es/wp-content/uploads/2016/07/Sighisoara-Romania.-Stone-paved-old-streets-with-colorful-houses-in-Sighisoara-fortress-Transylvania-region-of-Europe-shutterstock_386883811-2.jpg","panorama":"/lib/html/notFound.html","more":[{"location":"Târgu Mureș","imag":"http://img.bunadimineata.ro/uploads/2015/10/targu-mures_53620938-663x420.jpg"},{"location":"Palatul Culturii","imag":"http://img.bunadimineata.ro/uploads/2015/08/palatul-culturii-696x522.jpg"},{"location":"Cetatea Sighișoarei","imag":"http://img.bunadimineata.ro/uploads/2015/10/cetatea-sighisoarei_40226918-696x464.jpg"},{"location":"Castelul Bethlen","imag":"http://img.bunadimineata.ro/uploads/2015/10/castelul-bethlem-cris-mures_68282887-634x420.jpg"},{"location":"Saschiz","imag":"http://img.bunadimineata.ro/uploads/2015/10/cetatea-saschiz_32011182-634x420.jpg"},{"location":"Parcul Natural Defileul Mureșului Superior","imag":"http://img.bunadimineata.ro/uploads/2015/10/parcul-natural-defileul-muresului-superior_45529613-696x519.jpg"},{"location":"Pădurea Mociar","imag":"http://salvatireghinul.ro/stocare/2014/02/10.jpg-Mociar-stejar.jpg"},{"location":"Turnul cu ceas","imag":"http://www.roturism-info.ro/foto/atractii_turistice/castele_cetati_poze/bastioane_turnuri_poze/Turnul_cu_ceas_Sighisoara/roturism_galerie_turnul-cu-ceas-sighisoara_foto1.jpg"}],"reviews":[""],"likes":{"$numberInt":"1"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8dd"},"name":"Oradea","judet":"Bihor","details":"Oradea a fost dintotdeauna una din cele mai prospere orașe ale României și unul dintre cele mai semnificative centre economice, în mare parte datorită proximității față de frontiera cu Ungaria, devenind astfel o poartă înspre Occident. ","img":"http://www.clujmanifest.ro/wp-content/uploads/2018/01/oradea_chapter_image.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/oradea/podul-cu-flori/index.html","more":[{"location":"Băile Felix","imag":"http://img.bunadimineata.ro/uploads/2015/06/baile-felix-700x525.jpg"},{"location":"Cetatea Oradea","imag":"http://img.bunadimineata.ro/uploads/2015/06/800px-Cetatea_Oradea-696x522.jpg"},{"location":"Palatul Vulturul Negru","imag":"http://img.bunadimineata.ro/uploads/2015/06/palatul-vulturul-negru-oradea_57600701-696x469.jpg"},{"location":"Peștera Urșilor","imag":"http://img.bunadimineata.ro/uploads/2015/06/pestera-ursilor_15679290-696x464.jpg"},{"location":"Lacul Vida","imag":"http://img.bunadimineata.ro/uploads/2015/06/lacul-vida-bihor_45273711-696x464.jpg"},{"location":"Padiș","imag":"http://img.bunadimineata.ro/uploads/2015/06/poiana-ponorului_44627663-696x321.jpg"},{"location":"Lacul Leșu","imag":"http://img.bunadimineata.ro/uploads/2015/06/lacul-lesu-700x525.jpg"},{"location":"Peștera Ghețarul de la Focul Viu","imag":"http://img.bunadimineata.ro/uploads/2015/06/Pestera-Ghetarul-de-la-Focul-Viu-700x470.jpg"}],"reviews":[],"likes":{"$numberInt":"0"}}
-{"_id":{"$oid":"5b4b1780a7fc2cb00f90b8de"},"name":"Constanța","judet":"Constanța","details":"Un oras efervescent, ce imbina istoria milenara cu modernismul. Constanta isi primeste oaspetii cu bratele deschise, cu  farmec si cu locuri surprinzatoare. Este un oras care celebreaza multiculturalismul cere genereaza un spirit plin de viata.","img":"https://static2.playtech.ro/wp-content/uploads/2015/07/Cazino-Constanta-1170x658.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/mamaia/pontonul-din-mamaia/index.html","more":[{"location":"Litoralul Mării Negre","imag":"http://img.bunadimineata.ro/uploads/2015/10/litoralul-marii-negre_29145754-696x371.jpg"},{"location":"Cheile Dobrogei","imag":"http://img.bunadimineata.ro/uploads/2015/10/cheile-dobrogei-romania_63689118-696x464.jpg"},{"location":"Techirghiol","imag":"http://img.bunadimineata.ro/uploads/2015/10/techirghiol-_21054859-633x420.jpg"},{"location":"Cetatea Histria","imag":"http://img.bunadimineata.ro/uploads/2015/10/cetatea-histria-constanta_57234453-696x464.jpg"},{"location":"Rezervația de dune marine Agigea","imag":"http://img.bunadimineata.ro/uploads/2015/10/rezervatia-dune-agigea-romania_70846831-696x464.jpg"},{"location":"Insula Ovidiu și Limanul Stiutghiol","imag":"http://img.bunadimineata.ro/uploads/2015/09/insula_ovidiu-52dfd0b47c8e4-696x596.jpg"},{"location":"Peştera Movile","imag":"http://img.bunadimineata.ro/uploads/2015/09/Pe%C5%9Ftera-Movile-696x464.jpg"},{"location":"Cazinoul din Constanta","imag":"http://img.bunadimineata.ro/uploads/2015/10/casino-constanta_19666593-640x420.jpg"}],"reviews":[],"likes":{"$numberInt":"0"}}
-{"_id":{"$oid":"5b54b801395b701b20e11fc9"},"name":"Cluj-Napoca","judet":"Cluj","details":"Cluj-Napoca este una dintre cele mai atractive destinaţii. Vizitarea oraşului este o plăcere si o experienţă minunată pentru cei care vor să vadă viaţa transilvăneană, alături de mâncarea specifică","img":"http://img.garbo.ro/images/article_pictures/slideshows/13906__1481118694.jpg","panorama":"http://www.360view.ro/tur-virtual/obiective-turistice/cluj-napoca/centru-cluj-napoca-01/index.html","more":[{"location":"Cetăţuia","imag":"https://cluj-wpengine.netdna-ssl.com/assets/10556283_1526010077619009_1170539479787373566_n.jpg"},{"location":"Piaţa Unirii","imag":"http://clujcapitala.ro/wp-content/uploads/2015/08/piata-unirii-cluj-680x365.jpg"},{"location":"Parcul Central","imag":"http://storage0.dms.mpinteractiv.ro/media/2/1401/16386/12940126/3/parculcentralcluj.jpg?height=361&width=600"},{"location":"Parcul Etnografic Romulus Vuia","imag":"http://storage0.dms.mpinteractiv.ro/media/2/1401/16386/12940126/6/parcul-etnografic-romulus-vuia.jpg?height=450&width=600"},{"location":"Salina Turda","imag":"http://media.rtv.net/image/201604/full/shutterstock_294938504_90430700.jpg"},{"location":"Castelul Banffy","imag":"http://transilvaniareporter.ro/wp-content/uploads/2013/11/castelul-banffy-2.jpg"},{"location":"Turnul Croitorilor","imag":"https://cluj-wpengine.netdna-ssl.com/assets/10494965_551164054994350_7027333481562240300_o.jpg"},{"location":"Cheile Turzii","imag":"http://lataifas.ro/lataifas.ro/wp-content/uploads/2014/09/Cheile-turzii.jpg"}],"reviews":[],"likes":{"$numberInt":"0"}}
+{
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d2"
+    },
+    "name": "ORAŞUL UNIRII, Alba-Iulia",
+    "judet": "Alba",
+    "details": "Alba Iulia, capitala de suflet a românilor, este oraşul unde s-a înfăptuit Marea Unire de la 1918.Una dintre cele mai frumoase locuri de vizitat din Romania. Frumos renovata, arata autentic.",
+    "img": "https://razvanpascu.ro/wp-content/uploads/2017/11/alba-iulia-fotografii-cu-drona.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/alba-iulia/catedrala-ortodoxa/index.html",
+    "more": [{
+        "location": "Râpa Roşie",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/04/rapa-rosie-300x197.jpg"
+    }, {
+        "location": "Gheţarul de la Scărişoara",
+        "imag": "https://alba24.ro/wp-content/uploads/2012/06/scarisoara-1-300x228.jpg"
+    }, {
+        "location": "Cetatea Alba Carolina",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/08/Alba-Iulia-300x132.jpg"
+    }, {
+        "location": "Cetatea Câlnic",
+        "imag": "https://alba24.ro/wp-content/uploads/2012/07/Cetatea-Calnic-300x225.jpg"
+    }, {
+        "location": "Transalpina sau Drumul Regelui",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/08/transalpina-300x183.jpg"
+    }, {
+        "location": "Castelul Bethlen-Haller",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/08/Castelul-Bethlen-300x188.jpg"
+    }, {
+        "location": "Satul Rimetea",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/02/DSC09851-300x199.jpg"
+    }, {
+        "location": "Mănăstirea de la Râmeţ",
+        "imag": "https://alba24.ro/wp-content/uploads/2013/05/manastirea-ramet-300x201.jpg"
+    }],
+    "reviews": [{
+        "name": "Cristina",
+        "content": "Test",
+        "time": {
+            "$numberLong": "1532118526279"
+        }
+    }],
+    "likes": {
+        "$numberInt": "5"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d3"
+    },
+    "name": "București",
+    "judet": "București",
+    "details": "Capitala Romaniei este un oras plin de viata, de lumina si in permanenta dezvoltare. A cunoscut multe schimbari, a trecut prin diverse perioade istorice, fiecare lasandu-si amprenta in structura orasului",
+    "img": "http://www.ccib.ro/afacerea/Imagemanager/afacerea2012/321/Arc-Triumf.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/bucuresti/arcul-de-triumf/index.html",
+    "more": [{
+        "location": "Arcul de Triumf",
+        "imag": "https://img.directbooking.ro/getimage.ashx?f=Obiective&file=7a56ec24-0814-4399-afe4-e6d764000f685.jpg"
+    }, {
+        "location": "Palatul Parlamentului",
+        "imag": "https://static4.libertatea.ro/wp-content/uploads/2018/03/casa-poporului.jpg"
+    }, {
+        "location": "Parcul Herăstrău",
+        "imag": "https://www.activenews.ro/images/articole/148203.jpeg"
+    }, {
+        "location": "Centrul vechi",
+        "imag": "http://cdnd.mercibynovotel.ro/administrare-articole/1/large_articol-centrul-vechi.jpg"
+    }, {
+        "location": "Ateneul Român",
+        "imag": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Ateneul_Roman.jpg/1200px-Ateneul_Roman.jpg"
+    }, {
+        "location": "Muzeul Țăranului",
+        "imag": "https://ross-tur.ru/wp-content/uploads/2014/05/Muzey-rumyinskogo-krestyanina.jpg"
+    }, {
+        "location": "Muzeul Satului",
+        "imag": "http://noapteamuzeelor.ro/wp-content/uploads/2016/04/muzeul-satului-ansamblu-1.jpg"
+    }, {
+        "location": "Muzeul Antipa",
+        "imag": "http://www.ziuaveche.ro/wp-content/uploads/2011/09/Muzeul-%E2%80%9CGrigore-Antipa%E2%80%9D-se-redeschide.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d5"
+    },
+    "name": "Brașov",
+    "judet": "Brașov",
+    "details": "Municipiul Brașov a reprezentat, de secole, unul dintre cele mai importante, puternice și înfloritoare orașe din zonă. Brașovul este cel mai important oraș din regiunea de dezvoltare Centru.",
+    "img": "https://intelilight.eu/wp-content/uploads/2014/03/Brasov-case-study.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/brasov/piata-sfatului-brasov-02/index.html",
+    "more": [{
+        "location": "Piaţa Sfatului",
+        "imag": "http://www.romania-central.com/wp-content/uploads/pictures/cities-from-romania/brasov/brasov-piata-sfatului-council-square-images-01.jpg"
+    }, {
+        "location": "Biserica Neagră",
+        "imag": "https://identitatea.ro/wp-content/uploads/2016/08/Biserica_Neagra_Brasov_Romania.jpg"
+    }, {
+        "location": "Castelul Bran",
+        "imag": "http://www.castelulbran.ro/assets/pages/home2-full.jpg"
+    }, {
+        "location": "Poiana Brasov",
+        "imag": "http://www.discoverpoiana.ro/files/slideshow/129.jpeg"
+    }, {
+        "location": "Prima școală românească",
+        "imag": "https://s.inyourpocket.com/img/figure/2015-04/Brasov_Prima_scoala_romaneasca_(2).jpg"
+    }, {
+        "location": "Varful Tampa",
+        "imag": "http://www.adevarul.ro/assets/adevarul.ro/MRImage/2014/08/29/540051290d133766a8aeab7a/646x404.jpg"
+    }, {
+        "location": "Cetatea Râşnov",
+        "imag": "http://alecsvlad.ro/wp-content/uploads/2017/07/Cetatea-Rasnov-1440x810.jpg"
+    }, {
+        "location": "Cetatea Făgăraş",
+        "imag": "https://romaniadacia.files.wordpress.com/2014/03/medieval-citadel-fagaras-transylvania-romania-aerial-1-beautiful-landscape.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d7"
+    },
+    "name": "Sibiu",
+    "judet": "Sibiu",
+    "details": "Municipiul Sibiu a reprezentat și reprezintă unul dintre cele mai importante și înfloritoare orașe din Transilvania, fiind unul dintre principalele centre ale coloniștilor sași stabiliți în zonă. În anul 2007 a fost Capitala Culturală Europeană.",
+    "img": "https://farm1.staticflickr.com/425/32087035070_c99d8f0b62_c.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/sibiu/piata-mare-01/index.html",
+    "more": [{
+        "location": "Golul alpin Bâlea",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/lacul-balea-muntii-fagaras_20299338-696x464.jpg"
+    }, {
+        "location": "Transfăgărășanul",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/soseua-transfagarasean-sibiu_9970362-696x464.jpg"
+    }, {
+        "location": "Păltiniș",
+        "imag": "http://www.turistintransilvania.com/wp-content/uploads/2012/12/paltinis-sibiu-455x305.jpg"
+    }, {
+        "location": "Biserica fortificată din Cisnădioara",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/biserica-medievala-cisnadioara_42654029-634x420.jpg"
+    }, {
+        "location": "Biserica fortificată din Biertan",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/cetatea-medievala-biertan-sibiu_33620382-634x420.jpg"
+    }, {
+        "location": "Ocna Sibiului",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/ocna-sibiului_52998399-696x406.jpg"
+    }, {
+        "location": "Parcul Natural „Golul alpin Făgăraș”",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/muntii-fagaras_20305009-696x464.jpg"
+    }, {
+        "location": "Mărginimea Sibiului",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/12/satul-jina-marginimea-sibiului_26187640-634x420.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d8"
+    },
+    "name": "Sinaia",
+    "judet": "Prahova",
+    "details": "Sinaia una dintre cele mai frumoase statiuni montane din Romania se prezinta vizitatorului cu un bogat trecut cultural si social. Fosta resedinta a regilor inbina neintrecut frumusetea naturii cu cea a artei arhitecturale. ",
+    "img": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg/800px-Castelul_Peles%2C_Sinaia_-_Vedere_panoramica.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/sinaia/castelul-peles/index.html",
+    "more": [{
+        "location": "Valea Prahovei",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/11/valea-prahovei_36037314-696x464.jpg"
+    }, {
+        "location": "Parcul Natural Bucegi",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/11/muntii-bucegi_36015229-696x401.jpg"
+    }, {
+        "location": "Castele Peleș și Pelișor",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/11/castelul-peles-sinaia_20074035-696x465.jpg"
+    }, {
+        "location": "Casa memorială George Enescu",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/Casa-memoriala-George-Enescu.jpg"
+    }, {
+        "location": "Castelul Cantacuzino",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/11/castelul-cantacuzino_42146688-696x522.jpg"
+    }, {
+        "location": "Valea Doftanei",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/11/valea-doftanei_68076149-696x463.jpg"
+    }, {
+        "location": "Muzeul memorial Nicolae Grigorescu",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/Casa-memoriala-Nicolae-Grigorescu.jpg"
+    }, {
+        "location": "Podgoriile de pe Dealu Mare",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/Podgoria-Dealu-Mare.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8d9"
+    },
+    "name": "Delta Dunarii",
+    "judet": "Tulcea",
+    "details": "Ca sa intelegi complexitatea Deltei Dunarii trebuie sa vizitezi acest mediu natural, sa te plimbi cu barca, sa asculti zgomotele naturii si abia atunci iti vei da seama cat de bogati suntem cu un asemenea loc supranumit 'Raiul pasarilor si a pestilor'.",
+    "img": "http://www.retetepractice.ro/wp-content/uploads/2015/09/frumusetea-deltei-dunarii.png",
+    "panorama": "/lib/html/notFound.html",
+    "more": [{
+        "location": "Parcul Național Munții Măcinului",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/munti-in-dobrogea_60522731-696x464.jpg"
+    }, {
+        "location": "Acvariul din Tulcea",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/Centrul-Muzeal-Eco-Turistic-Delta-Dunarii-3-696x522.jpg"
+    }, {
+        "location": "Cetatea Aegyssus",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/Cetatea-Aegyssus.png"
+    }, {
+        "location": "Sulina",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/far-in-sulina_32185952-639x420.jpg"
+    }, {
+        "location": "Cetatea Medievală Enisala",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/cetatea-enisala_20834775-633x420.jpg"
+    }, {
+        "location": "Mănăstirile ortodoxe din Tulcea",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/manastirea-celic-dere_44105252-633x420.jpg"
+    }, {
+        "location": "Casa Memorială „Panait Cerna”",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/casa-memoriala-panait-cerna-696x521.jpg"
+    }, {
+        "location": "Clădirile turcești din Babadag",
+        "imag": "http://www.gsastl.ro/grant/grant_activitati/m1m_files/image003.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "2"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8da"
+    },
+    "name": "Timișoara",
+    "judet": "Timiș",
+    "details": "Timişoara oferă vizitatorilor atracţii demne de un oraş european. Oraşul de pe malul Begăi are o istorie care coboară până în cele mai vechi timpuri. Aici este locul în care s-a scris cel mai important capitol din istoria contemporană a ţării noastre",
+    "img": "http://blog.hotelguru.ro/wp-content/uploads/2017/02/Timisoara.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/timisoara/piata-victoriei-03/index.html",
+    "more": [{
+        "location": "Castelul Huniade",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/castelul-uniade_51215676-696x266.jpg"
+    }, {
+        "location": "Stațiunea Buziaș",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/800px-Buzias_Ansamblu_balnear_2.jpg"
+    }, {
+        "location": "Mlaștinile Satchinez",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/st%C3%A2rcul-cenusiu_40500484-696x490.jpg"
+    }, {
+        "location": "Centrul Timisoarei",
+        "imag": "http://www.fly-go.ro/blog/wp-content/uploads/2015/03/centru-Timisoara.jpg"
+    }, {
+        "location": "Muzeul din Lugoj",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/muzeul-din-lugoj.jpg"
+    }, {
+        "location": "Castelul din Banloc",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/2007_castel_banloc-696x466.jpg"
+    }, {
+        "location": "Peștera Românești",
+        "imag": "http://img.bunadimineata.ro/uploads/2016/02/pestere-romanesti_16654332-661x420.jpg"
+    }, {
+        "location": "Pajiștea cu narcise din Bătești",
+        "imag": "http://1.bp.blogspot.com/_e4KtmNjxNuA/TKyK_gPcv-I/AAAAAAAAARA/xAsPynxCJYI/s1600/narcise3.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8db"
+    },
+    "name": "Iași",
+    "judet": "Iași",
+    "details": "Iasi este cel mai mare oras din Moldova. Avand cea mai veche universitate romaneasca, a devenit un imens centru cultural si academic in Romania cu peste 50 de biserici, o faimoasa Gradina Botanica si multe muzee si case memoriale.",
+    "img": "http://turismistoric.ro/wp-content/uploads/2017/04/og_image-1080x580.jpg",
+    "panorama": "/lib/html/notFound.html",
+    "more": [{
+        "location": "Palatul Culturii",
+        "imag": "https://www.laiasi.ro/wp-content/uploads/2017/12/obiective-turistice-iasi-palatul-culturii-iasi-1.jpg"
+    }, {
+        "location": "Castelul Sturdza de la Miclăuşeni",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/palatul-sturza-micaluseni_61142420-696x464.jpg"
+    }, {
+        "location": "Palatul Cuza de la Ruginoasa",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/palatul-cuza-ruginoasa_20723952-696x390.jpg"
+    }, {
+        "location": "Muzeul Unirii",
+        "imag": "https://www.bzi.ro/public/upload/photos/22/Muzeul_Unirii_iarna.jpg"
+    }, {
+        "location": "Parcul Copou",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/parcul-copu-iasi_42421487-696x522.jpg"
+    }, {
+        "location": "Biblioteca „Gheorghe Asachi”",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/biblioteca-gh-asachi-iasi.jpg"
+    }, {
+        "location": "Muzeul Memorial „Vasile Alecsandri”",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/05/Muzeul-memorial-Vasile-Alecsandri-ro.wikipedia.org_.jpg"
+    }, {
+        "location": "Podgoriile Cotnari",
+        "imag": "https://www.laiasi.ro/wp-content/uploads/2017/12/obiective-turistice-iasi-podgorii-iasi.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "0"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8dc"
+    },
+    "name": "Sighișoara",
+    "judet": "Mureș",
+    "details": "Sighisoara este printre putinele orase-cetate locuite din Europa. Datorita arhitecturii sale remarcabile, a pozitiei dominante si a ambiantei geografice, orasul a fost supranumit 'Perla Transilvaniei'. ",
+    "img": "https://www.holidayguru.es/wp-content/uploads/2016/07/Sighisoara-Romania.-Stone-paved-old-streets-with-colorful-houses-in-Sighisoara-fortress-Transylvania-region-of-Europe-shutterstock_386883811-2.jpg",
+    "panorama": "/lib/html/notFound.html",
+    "more": [{
+        "location": "Târgu Mureș",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/targu-mures_53620938-663x420.jpg"
+    }, {
+        "location": "Palatul Culturii",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/08/palatul-culturii-696x522.jpg"
+    }, {
+        "location": "Cetatea Sighișoarei",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/cetatea-sighisoarei_40226918-696x464.jpg"
+    }, {
+        "location": "Castelul Bethlen",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/castelul-bethlem-cris-mures_68282887-634x420.jpg"
+    }, {
+        "location": "Saschiz",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/cetatea-saschiz_32011182-634x420.jpg"
+    }, {
+        "location": "Parcul Natural Defileul Mureșului Superior",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/parcul-natural-defileul-muresului-superior_45529613-696x519.jpg"
+    }, {
+        "location": "Pădurea Mociar",
+        "imag": "http://salvatireghinul.ro/stocare/2014/02/10.jpg-Mociar-stejar.jpg"
+    }, {
+        "location": "Turnul cu ceas",
+        "imag": "http://www.roturism-info.ro/foto/atractii_turistice/castele_cetati_poze/bastioane_turnuri_poze/Turnul_cu_ceas_Sighisoara/roturism_galerie_turnul-cu-ceas-sighisoara_foto1.jpg"
+    }],
+    "reviews": [""],
+    "likes": {
+        "$numberInt": "1"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8dd"
+    },
+    "name": "Oradea",
+    "judet": "Bihor",
+    "details": "Oradea a fost dintotdeauna una din cele mai prospere orașe ale României și unul dintre cele mai semnificative centre economice, în mare parte datorită proximității față de frontiera cu Ungaria, devenind astfel o poartă înspre Occident. ",
+    "img": "http://www.clujmanifest.ro/wp-content/uploads/2018/01/oradea_chapter_image.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/oradea/podul-cu-flori/index.html",
+    "more": [{
+        "location": "Băile Felix",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/baile-felix-700x525.jpg"
+    }, {
+        "location": "Cetatea Oradea",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/800px-Cetatea_Oradea-696x522.jpg"
+    }, {
+        "location": "Palatul Vulturul Negru",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/palatul-vulturul-negru-oradea_57600701-696x469.jpg"
+    }, {
+        "location": "Peștera Urșilor",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/pestera-ursilor_15679290-696x464.jpg"
+    }, {
+        "location": "Lacul Vida",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/lacul-vida-bihor_45273711-696x464.jpg"
+    }, {
+        "location": "Padiș",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/poiana-ponorului_44627663-696x321.jpg"
+    }, {
+        "location": "Lacul Leșu",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/lacul-lesu-700x525.jpg"
+    }, {
+        "location": "Peștera Ghețarul de la Focul Viu",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/06/Pestera-Ghetarul-de-la-Focul-Viu-700x470.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "0"
+    }
+} {
+    "_id": {
+        "$oid": "5b4b1780a7fc2cb00f90b8de"
+    },
+    "name": "Constanța",
+    "judet": "Constanța",
+    "details": "Un oras efervescent, ce imbina istoria milenara cu modernismul. Constanta isi primeste oaspetii cu bratele deschise, cu  farmec si cu locuri surprinzatoare. Este un oras care celebreaza multiculturalismul cere genereaza un spirit plin de viata.",
+    "img": "https://static2.playtech.ro/wp-content/uploads/2015/07/Cazino-Constanta-1170x658.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/mamaia/pontonul-din-mamaia/index.html",
+    "more": [{
+        "location": "Litoralul Mării Negre",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/litoralul-marii-negre_29145754-696x371.jpg"
+    }, {
+        "location": "Cheile Dobrogei",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/cheile-dobrogei-romania_63689118-696x464.jpg"
+    }, {
+        "location": "Techirghiol",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/techirghiol-_21054859-633x420.jpg"
+    }, {
+        "location": "Cetatea Histria",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/cetatea-histria-constanta_57234453-696x464.jpg"
+    }, {
+        "location": "Rezervația de dune marine Agigea",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/rezervatia-dune-agigea-romania_70846831-696x464.jpg"
+    }, {
+        "location": "Insula Ovidiu și Limanul Stiutghiol",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/09/insula_ovidiu-52dfd0b47c8e4-696x596.jpg"
+    }, {
+        "location": "Peştera Movile",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/09/Pe%C5%9Ftera-Movile-696x464.jpg"
+    }, {
+        "location": "Cazinoul din Constanta",
+        "imag": "http://img.bunadimineata.ro/uploads/2015/10/casino-constanta_19666593-640x420.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "0"
+    }
+} {
+    "_id": {
+        "$oid": "5b54b801395b701b20e11fc9"
+    },
+    "name": "Cluj-Napoca",
+    "judet": "Cluj",
+    "details": "Cluj-Napoca este una dintre cele mai atractive destinaţii. Vizitarea oraşului este o plăcere si o experienţă minunată pentru cei care vor să vadă viaţa transilvăneană, alături de mâncarea specifică",
+    "img": "http://img.garbo.ro/images/article_pictures/slideshows/13906__1481118694.jpg",
+    "panorama": "http://www.360view.ro/tur-virtual/obiective-turistice/cluj-napoca/centru-cluj-napoca-01/index.html",
+    "more": [{
+        "location": "Cetăţuia",
+        "imag": "https://cluj-wpengine.netdna-ssl.com/assets/10556283_1526010077619009_1170539479787373566_n.jpg"
+    }, {
+        "location": "Piaţa Unirii",
+        "imag": "http://clujcapitala.ro/wp-content/uploads/2015/08/piata-unirii-cluj-680x365.jpg"
+    }, {
+        "location": "Parcul Central",
+        "imag": "http://storage0.dms.mpinteractiv.ro/media/2/1401/16386/12940126/3/parculcentralcluj.jpg?height=361&width=600"
+    }, {
+        "location": "Parcul Etnografic Romulus Vuia",
+        "imag": "http://storage0.dms.mpinteractiv.ro/media/2/1401/16386/12940126/6/parcul-etnografic-romulus-vuia.jpg?height=450&width=600"
+    }, {
+        "location": "Salina Turda",
+        "imag": "http://media.rtv.net/image/201604/full/shutterstock_294938504_90430700.jpg"
+    }, {
+        "location": "Castelul Banffy",
+        "imag": "http://transilvaniareporter.ro/wp-content/uploads/2013/11/castelul-banffy-2.jpg"
+    }, {
+        "location": "Turnul Croitorilor",
+        "imag": "https://cluj-wpengine.netdna-ssl.com/assets/10494965_551164054994350_7027333481562240300_o.jpg"
+    }, {
+        "location": "Cheile Turzii",
+        "imag": "http://lataifas.ro/lataifas.ro/wp-content/uploads/2014/09/Cheile-turzii.jpg"
+    }],
+    "reviews": [],
+    "likes": {
+        "$numberInt": "0"
+    }
+}

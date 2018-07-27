@@ -158,6 +158,10 @@ h3 {
     box-shadow: 0 .25rem .75rem rgba(0, 0, 0, .05);
 }
 
+.text-right {
+    float: right;
+}
+
 .lead {
     font-size: 1.5rem;
     line-height: 2.5rem;
@@ -191,45 +195,6 @@ h3 {
     .card {
         min-width: 330px !important;
     }
-}
-
-/* Quiz */
-
-.content {
-    padding: 10px;
-}
-
-#quiz {
-    display: none;
-    font-size: x-large;
-}
-
-ul {
-    list-style-type: none;
-    padding: 0;
-    margin-bottom: 10px;
-    font-size: smaller;
-}
-
-input[type="radio"] {
-    margin-right: 15px;
-}
-
-button {
-    position: relative;
-    margin-left: 10px;
-    float: right;
-}
-
-#prev,
-#start {
-    display: none;
-}
-
-#warning {
-    color: #800000;
-    font-weight: bold;
-    margin-top: 25px;
 }
 
 /* Rating */

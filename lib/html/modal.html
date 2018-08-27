@@ -69,8 +69,7 @@
                                     <div class="col-md-12 " ng-repeat="review in data.orase[selected].reviews ">
                                         <div class="card mb-3 w-100">
                                             <div class="card-header">
-                                                <strong>{{review.name}} <span ng-repeat="i in getNumber(review.rating) track by $index">★</span> </strong>
-                                                <span class="text-muted text-right"> {{review.time | date : 'short' }}</span>
+                                                <strong>{{review.name}} <span ng-repeat="i in getNumber(review.rating) track by $index">★</span> </strong> <span class="text-muted"> {{review.time | date : 'short' }}</span>
                                             </div>
                                             <div class="card-body ">
                                                 <p class="card-text ">{{review.content}}</p>
